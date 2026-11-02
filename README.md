@@ -1,6 +1,6 @@
 # Anthem Workshop
 
-A Git and GitHub practice project built by three users (Satish, Rajesh, Ramesh) on an AWS EC2 instance.
+A Git and GitHub practice project built by three users (Afeera Tabassum,Aliya Masiha, Arshiya Kounain) on an AWS EC2 instance.
 
 ## What this project shows
 - Cloning and pushing a repository
